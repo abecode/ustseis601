@@ -1,4 +1,4 @@
-public class TestStdIn {
+public class TestStdArg {
     public static void main(String[] args){
         System.out.print("There are " + args.length + " arguments: ");
         int x = 0;
