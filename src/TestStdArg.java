@@ -6,6 +6,5 @@ public class TestStdArg {
             System.out.print(args[x] + ", ");
             x = x + 1;
         }
-
-    }
+        }
 }
