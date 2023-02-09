@@ -17,9 +17,6 @@ public class App {
         System.out.println("hi" + 2+2);
         System.out.println('h');
         //System.out.println('串')；
-        if (s != null){
-            System.out.println("hi "+ s);
-        }
         char c = '串';
         System.out.println(c);
         System.out.println((int)3.5);
