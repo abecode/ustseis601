@@ -28,6 +28,11 @@ public class TestAndOr {
         System.out.println(returnValue);
         System.out.println();
 
+        System.out.println("iAmTrue() & iAmFalse()");
+        returnValue = iAmTrue() & iAmFalse();
+        System.out.println(returnValue);
+        System.out.println();
+
         System.out.println("8 = 1000, ie 1*2^3 + 0*2^2 + 0*2^1 + 0*2^0");
         System.out.println("7 = 111, ie 1*2^2 + 1*2^1 + 1*2^0");
         System.out.println(8|7);
